@@ -3,12 +3,14 @@
 		<link>
 			<name>TEST</name>
 			<url>https://nspace-repo.github.io/KMP/debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb</url>
-			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
 			<name>TEST2</name>
 			<url>https://nspace-repo.github.io/KMP/debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+		<link>
+			<name>Youtube Reborn</name>
+			<url>https://nspace-repo.github.io/KMP/debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb</url>
 		</link>
 	</footerlinks>
 </repo>
